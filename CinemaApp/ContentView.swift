@@ -14,6 +14,8 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("Hello, I'm installing Git!")
+            Text("Adding one more line")
+            Text("And one more")
         }
         .padding()
     }
