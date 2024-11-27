@@ -13,9 +13,7 @@ struct ContentView: View {
             Image(systemName: "globe")
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text("Hello, I'm installing Git!")
-            Text("Adding one more line")
-            Text("And one more to see")
+            Text("all new")
         }
         .padding()
     }
